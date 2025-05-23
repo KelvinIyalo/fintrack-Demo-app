@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/home_ic"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/budgetFragment"
+        android:icon="@drawable/budget_ic"
+        android:title="@string/budget" />
+
+    <item
+        android:id="@+id/savingsFragment"
+        android:icon="@drawable/savings_ic"
+        android:title="@string/savings" />
+
+    <item
+        android:id="@+id/expenseFragment"
+        android:icon="@drawable/expense_ic"
+        android:title="@string/expenses" />
+
+    <item
+        android:id="@+id/accountFragment"
+        android:icon="@drawable/account_ic"
+        android:title="@string/account" />
+
+
+</menu>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="fintrack_green">#008080</color>
+    <color name="fintrack_blue">#161B26</color>
+    <color name="fintrack_grey">#CFCFD5</color>
+    <color name="fintrack_expense">#FFE6CC</color>
+    <color name="fintrack_savings">#FF952B</color>
+    <color name="fintrack_green_light">#CCE6E6</color>
+
+
+</resources>
