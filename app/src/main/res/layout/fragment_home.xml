@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/white"
     tools:context=".presentation.dashboard.home.HomeFragment">
 
     <TextView
@@ -101,7 +102,7 @@
                 android:layout_marginTop="10dp"
                 android:background="@drawable/all_rounded_corners"
                 android:backgroundTint="@color/fintrack_green_light"
-                android:drawableEnd="@drawable/forward_ic"
+                android:drawableEnd="@drawable/arrow_forward_ic"
                 android:fontFamily="@font/mailsansroman_regular"
                 android:gravity="center"
                 android:padding="10dp"

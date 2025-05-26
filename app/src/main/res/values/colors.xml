@@ -13,7 +13,9 @@
     <color name="fintrack_grey">#CFCFD5</color>
     <color name="fintrack_expense">#FFE6CC</color>
     <color name="fintrack_savings">#FF952B</color>
+    <color name="fintrack_savings_light">#C8FF952B</color>
     <color name="fintrack_green_light">#CCE6E6</color>
+    <color name="fintrack_red">#D92D20</color>
 
 
 </resources>

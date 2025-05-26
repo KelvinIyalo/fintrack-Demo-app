@@ -47,7 +47,7 @@
                 android:layout_marginEnd="16dp"
                 android:background="@drawable/all_rounded_corners"
                 android:backgroundTint="@color/white"
-                android:drawableEnd="@drawable/forward_ic"
+                android:drawableEnd="@drawable/arrow_forward_ic"
                 android:gravity="center"
                 android:padding="10dp"
                 android:text="Manage Accounts"
